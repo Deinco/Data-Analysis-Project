@@ -16,11 +16,6 @@ The sales data for each of the Supermarkets were contained in three different cs
 6. Products with a higher average unit price were purchased less than products with a lower average unit price.
 
 
-
-# Future Work
-
-To-Do - Suggest tasks you might include in future work to make this project more robust.
-
 # Standout Section
 
 1. Payment volume per channel - the total volume of payments obtained via each payment channel was determined as merely knowing th enumber of transactions per each channel may not tell the full story. 
